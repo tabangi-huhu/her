@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -112,9 +113,8 @@
       <div class="polaroid">
         <div class="tape"></div>
         <div class="tape right"></div>
-        <div class="title">For you, my love</div>
-        <div class="message" id="messagePreview">elooo, el^
-
+        <div class="title">elooo, el^</div>
+        <div class="message" id="messagePreview">
             Happy monthsary sa atin. Alam ko I’ve made mistakes, alam ko I’ve hurt you, and I’ll never stop being sorry for that. Pero ngayon, gusto ko lang magsulat nang totoo, nang galing talaga sa puso ko, kasi monthsary natin ito at gusto kong maramdaman mo gaano kita kamahal at gaano ka kaimportante sa akin.
             
             Swerte ako kasi ikaw ang pumili sa’kin. Kung hindi mo ako kinausap nung umpisa, baka hindi nangyari lahat ng ito. Yung simpleng hi mo noon, naging simula ng pinaka espesyal na bagay sa buhay ko. Lagi kong naaalala na ikaw ang nagbigay ng “yes,” at dahil dun lagi akong thankful.
@@ -129,10 +129,8 @@
             
             Happy Monthsary, el^. Hindi lang dahil date ito pero dahil reminder siya na isang buwan na naman yung nalagpasan natin nang magkasama. Salamat kasi andiyan ka, salamat kasi ikaw yung nagbigay ng dahilan para maging masaya ako at para gusto kong maging mas mabuting tao.
             
-            Mahal na mahal kita, sobra sobra. Lagi akong para sa’yo.
-            
-            – your baby, your happiest boy 🩵</div>
-        <div class="tag">— always, me</div>
+            Mahal na mahal kita, sobra sobra. Lagi akong para sa’yo.</div>
+        <div class="tag">– your baby, your happiest boy 🩵</div>
       </div>
 
       <!-- scratch polaroid placed after the message -->
