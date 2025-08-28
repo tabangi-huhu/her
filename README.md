@@ -127,7 +127,11 @@
             Ngayong monthsary, hindi ako magbibigay ng empty promises. Pero sigurado ako dito: araw-araw kitang pipiliin. Hindi lang sa grand gestures, kundi sa simpleng effort na consistent. Hindi ko hahayaang maramdaman mo na parang napapabayaan ka lang. Nandito ako para alagaan ka, intindihin ka, at ipakita sa’yo na mahalaga ka. Kapag napapagod ka o nagdududa ka, gusto ko lang na bigyan mo ako ng konting chance para patunayan, hindi lang sa salita kundi sa gawa, na worth it pa rin tayong dalawa.
             
             Happy Monthsary, el^. Hindi lang dahil date ito pero dahil reminder siya na isang buwan na naman yung nalagpasan natin nang magkasama. Salamat kasi andiyan ka, salamat kasi ikaw yung nagbigay ng dahilan para maging masaya ako at para gusto kong maging mas mabuting tao.
-            
+
+            May playlist ako pala noon pa, ginawa ko siya para sa ‘one day wifey’ ko… yung taong akala ko matatagpuan ko pa lang someday. Pero ngayon, narealize ko… nakita ko na pala siya. Ikaw yun. Ikaw yung taong hinihintay ko noon pa. 
+
+            Kaya eto, gusto ko ibigay sayo yung playlist na yun. Para maramdaman mo na matagal na kitang pinangarap, at ngayon, ikaw na yung reality ko. Ikaw yung laman ng bawat kanta, ikaw yung dahilan bakit ako naniniwala sa love.
+
             Mahal na mahal kita, sobra sobra. Lagi akong para sa’yo.</div>
         <div class="tag">– your baby, your happiest boy 🩵</div>
       </div>
