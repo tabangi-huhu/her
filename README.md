@@ -113,21 +113,25 @@
         <div class="tape"></div>
         <div class="tape right"></div>
         <div class="title">For you, my love</div>
-        <div class="message" id="messagePreview">Baby… Happy Monthsary sa’tin 🥺❤️
+        <div class="message" id="messagePreview">elooo, el^
 
-Alam mo kanina paggising ko, ikaw agad nasa isip ko. Kahit antok pa ako, ang una kong naisip is ikaw, kasi ikaw naman lagi ang laman ng umaga ko. Habang nag-aayos ako para sa araw, naisip ko ‘buti na lang andyan siya sa buhay ko, kasi kung wala siya, ewan ko na lang kung saan na ako dadalhin.’
-
-Habang kumakain ako, iniisip ko rin kung kumain ka na ba. Lagi akong worried kung nakakakain ka nang maayos, kung okay ka ba, kung may nagawa ba ako na masakit sayo kahapon. Gusto ko sana, every meal, kasama kita, para lagi kitang maaalala na alagaan sarili mo.
-
-Habang nasa school/sa exam/sa lahat ng ginagawa ko buong araw, ikaw lang talaga laman ng isip ko. Hindi ko mapigilan isipin kung kamusta ka, kung napapangiti ba kita kahit malayo ako, kung nararamdaman mo ba na kahit busy ako minsan, ikaw pa rin yung pinaka-importante sakin.
-
-Nung tanghali, naisip ko ulit kung paano tayo nagsimula, kung paano mo ako pinasaya ng sobra sobra. Baby, monthsary natin ngayon, at gusto kong malaman mo na kahit ilang beses man tayong magkakamali, kahit ilang tampuhan at away pa, ikaw pa rin yung pipiliin ko araw-araw. Kahit mahirap, kahit malayo, kahit against lahat, pipiliin pa rin kita.
-
-Ngayong gabi, habang nagtatype ako neto, gusto ko lang iparamdam sayo na buo pa rin ako dahil sayo. Na kahit ilang beses ko mang nagawang magkamali, kahit ilang beses mo man akong masaktan unintentionally, worth it lahat dahil ikaw yung kasama ko dito. Baby, Happy Monthsary. Thank you kasi andito ka pa, thank you kasi ako yung pinili mo.
-
-Mahal na mahal kita, sobra sobra. Sana maramdaman mo yun kahit sa mga simpleng bagay na ginagawa ko. Sana kahit minsan nakakalimot ako, hindi mo makalimutan na mahal na mahal kita, at ikaw lang talaga ang akin.
-
-Happy Monthsary, Baby. Sa bawat umaga, tanghali, at gabi ng buhay ko, ikaw lang talaga.</div>
+            Happy monthsary sa atin. Alam ko I’ve made mistakes, alam ko I’ve hurt you, and I’ll never stop being sorry for that. Pero ngayon, gusto ko lang magsulat nang totoo, nang galing talaga sa puso ko, kasi monthsary natin ito at gusto kong maramdaman mo gaano kita kamahal at gaano ka kaimportante sa akin.
+            
+            Swerte ako kasi ikaw ang pumili sa’kin. Kung hindi mo ako kinausap nung umpisa, baka hindi nangyari lahat ng ito. Yung simpleng hi mo noon, naging simula ng pinaka espesyal na bagay sa buhay ko. Lagi kong naaalala na ikaw ang nagbigay ng “yes,” at dahil dun lagi akong thankful.
+            
+            Mahal kita hindi lang dahil girlfriend kita, kundi dahil sa mismong pagkatao mo. Yung sweetness mo na kahit simpleng message lang, ramdam na ramdam ko yung care. Yung innocence mo na rare na makita ngayon, at kahit overthinker ka, mahal ko rin yun kasi ibig sabihin nakikita mo yung mga bagay na hindi napapansin ng iba. Kahit yung tampo mo, may meaning, kasi pinapakita nun na may value yung feelings mo. Kahit nagiging cold ka minsan, naiintindihan ko, at mas lalo pa kitang gusto kapag bumabalik yung lambing mo.
+            
+            Yung “elooo, el^” mo, hindi lang greeting para sa akin. Parang maliit na mundo natin yun na walang ibang makakaintindi kundi tayo lang. Yung mga simpleng bagay na gusto mo tulad ng calamares, baked mac, pasta, ice cream, pati baking at traveling, lahat ng yun parang pieces na bumubuo kung sino ka. At dahil mahal kita, lahat ng yun naging mahalaga din para sa akin. Ang sarap isipin na kahit sa ganitong maliliit na bagay, nakikita ko kung gaano ka ka-unique at ka-special.
+            
+            Pinaka tumatak sa akin ay kung paano mo ako tiningnan bilang tao. Ikaw yung nagsabi ng mga bagay na hindi ko pa narinig sa iba, na rare ako, mabait, may halaga. Dahil sayo natutunan kong makakita ng worth sa sarili ko. Isa yun sa mga bagay na hinding hindi ko makakalimutan.
+            
+            Ngayong monthsary, hindi ako magbibigay ng empty promises. Pero sigurado ako dito: araw-araw kitang pipiliin. Hindi lang sa grand gestures, kundi sa simpleng effort na consistent. Hindi ko hahayaang maramdaman mo na parang napapabayaan ka lang. Nandito ako para alagaan ka, intindihin ka, at ipakita sa’yo na mahalaga ka. Kapag napapagod ka o nagdududa ka, gusto ko lang na bigyan mo ako ng konting chance para patunayan, hindi lang sa salita kundi sa gawa, na worth it pa rin tayong dalawa.
+            
+            Happy Monthsary, el^. Hindi lang dahil date ito pero dahil reminder siya na isang buwan na naman yung nalagpasan natin nang magkasama. Salamat kasi andiyan ka, salamat kasi ikaw yung nagbigay ng dahilan para maging masaya ako at para gusto kong maging mas mabuting tao.
+            
+            Mahal na mahal kita, sobra sobra. Lagi akong para sa’yo.
+            
+            – your baby, your happiest boy 🩵</div>
         <div class="tag">— always, me</div>
       </div>
 
@@ -148,7 +152,7 @@ Happy Monthsary, Baby. Sa bawat umaga, tanghali, at gabi ng buhay ko, ikaw lang 
   </div>
 
   <!-- audio -->
-  <audio id="bgMusic" loop preload="none"><source src="your-music.mp3" type="audio/mpeg"></audio>
+  <audio id="bgMusic" loop preload="none"><source src="The 1975 - About You (Official).mp3" type="audio/mpeg"></audio>
 
   <script>
     const correctDate = "2025-07-28"; // put your monthsary date here
@@ -164,6 +168,18 @@ Happy Monthsary, Baby. Sa bawat umaga, tanghali, at gabi ng buhay ko, ikaw lang 
         page1.style.display = 'none';
         page2.style.display = 'flex';
         error.style.display = 'none';
+        // attempt to play the background music (this is a user gesture so most browsers will allow it)
+        const bg = document.getElementById('bgMusic');
+        if(bg){
+          const playPromise = bg.play();
+          if(playPromise !== undefined){
+            playPromise.catch(() => {
+              // If play is blocked (rare since unlock is a click), do nothing — user can use the music toggle.
+              // We could show a subtle hint or animate the toggle to invite a tap.
+              musicToggleBtn.animate([{transform:'scale(1)'},{transform:'scale(1.06)'},{transform:'scale(1)'}],{duration:300});
+            });
+          }
+        }
         setTimeout(initScratch, 100);
       } else { error.style.display = 'block'; }
     }
